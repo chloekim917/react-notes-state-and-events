@@ -1,1 +1,1 @@
-# react-notes-state-and-events
+Updating picture and like numbers using state and click events
